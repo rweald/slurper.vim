@@ -42,9 +42,6 @@ nmap <buffer> <C-j>
       \<CR>name:
       \<CR><C-D>  
       \<CR>description:
-      \<CR>In order to
-      \<CR>As a
-      \<CR>I want
       \<CR>
       \<CR>-
       \<CR>
